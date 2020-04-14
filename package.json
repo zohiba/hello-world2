@@ -1,5 +1,5 @@
 {
-	  "name": "zarin-node-hello-000",
+	  "name": "zarin-node-hello2-000",
 	  "version": "1.0.0",
 	  "description": "",
 	  "main": "app.js",
@@ -9,13 +9,13 @@
 	  },
 	  "repository": {
 	    "type": "git",
-	    "url": "git+https://github.com/Zarin-Ohiba/hello-world.git"
+	    "url": "git+https://github.com/zohiba/hello-world2.git"
 	  },
 	  "keywords": [],
 	  "author": "",
 	  "license": "ISC",
 	  "bugs": {
-	    "url": "https://github.com/Zarin-Ohiba/hello-world/issues"
+	    "url": "https://github.com/zohiba/hello-world2/issues"
 	  },
-	  "homepage": "https://github.com/Zarin-Ohiba/hello-world#readme"
+	  "homepage": "https://github.com/zohiba/hello-world2#readme"
 	}
